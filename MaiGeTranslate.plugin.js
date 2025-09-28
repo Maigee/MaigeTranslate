@@ -125,7 +125,7 @@ class MaiGeTranslate {
     }
 
     getDescription() {
-        return "双击频道消息，调用自定义 AI 翻译接口，将译文插入原消息下方。";
+        return "更适合中国宝宝体质的翻译插件，双击翻译+输入翻译！";
     }
 
     load() {}
