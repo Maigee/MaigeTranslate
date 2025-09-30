@@ -6,7 +6,7 @@
  * @author Maige
  */
 
-const PLUGIN_NAME = "MaiGeTranslateFetch";
+const PLUGIN_NAME = "MaiGeTranslate";
 const PLUGIN_VERSION = "0.1.0";
 
 const LANGUAGE_OPTIONS = [
