@@ -1,13 +1,13 @@
 /**
  * @name MaiGeTranslate
  * @description 更适合中国宝宝体质的翻译插件，双击翻译+输入翻译！
- * @version 0.3.0
+ * @version 0.4.0
  * @website https://x.com/unflwMaige
  * @author Maige
  */
 
 const PLUGIN_NAME = "MaiGeTranslate";
-const PLUGIN_VERSION = "0.3.0";
+const PLUGIN_VERSION = "0.4.0";
 
 const LANGUAGE_OPTIONS = [
     "简体中文",
